@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janettha.
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Android and more about Android.
+- 👀 I’m interested in Android Development, Kotlin.
+- 🌱 I’m currently learning more about Android Development.
 - 💞️ I’m looking to collaborate on a project and a team to learn constantly and apply our new knowledge. 
 - 📫 How to reach me janethsg.2301@gmail.com.
 
